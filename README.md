@@ -49,6 +49,7 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 |[aka.ms/ge](https://aka.ms/ge)|ge|[Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)|
 |[aka.ms/in](https://aka.ms/in)|in|[Intune](https://endpoint.microsoft.com)|
 |[aka.ms/ppac](https://aka.ms/ppac)|ppac|[Power Platform](https://admin.powerplatform.microsoft.com/)|
+|[aka.ms/pvahome](https://aka.ms/pvahome)|pvahome|[Power Virtual Agents](https://powervirtualagents.microsoft.com/)|
 
 
 ## Microsoft 365 Defender
